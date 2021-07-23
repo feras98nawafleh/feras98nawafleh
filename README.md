@@ -49,4 +49,4 @@ Github Profile
 <a href="https://www.twitter.com/ferasnawafleh/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ferasnawafleh-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:fero.nofal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fero.nofal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+![snake gif](https://github.com/feras98nawafleh/feras98nawafleh/blob/output/github-contribution-grid-snake.gif)
