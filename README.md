@@ -44,7 +44,7 @@ Github Profile
 
 <p align="center">
 <a href="https://ferasnawafleh-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ferasnawafleh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/feras-nawafleh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Feras%20Adel%20Nawafleh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/feras-nawafleh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Feras%20Adel%20Nawafleh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/feras_nawafleh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-feras_nawafleh-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.twitter.com/ferasnawafleh/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ferasnawafleh-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:fero.nofal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fero.nofal@gmail.com-blue?style=flat-square&logo=gmail"></a>
