@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Bachelor degree in Computer Science from University of Jordan.
-- 💼 &nbsp; FullStack developer at InvoiceQ, Java & Angular.
+- 💼 &nbsp; FullStack developer at Intalio, Java & Angular.
 - ✍️ &nbsp; Pursuing a master degree in ML and Sports as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
